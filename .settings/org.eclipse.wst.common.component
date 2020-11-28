@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="OnTapGK2020">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/src/META-INF"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/WEB-INF/views"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/images"/>
+                        
+        
+        <property name="context-root" value="OnTapGK2020"/>
+                        
+        
+        <property name="java-output-path" value="/OnTapGK2020/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
